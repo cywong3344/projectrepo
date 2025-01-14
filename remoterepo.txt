@@ -1,1 +1,1 @@
-Hello from remote reposity!
+Hello from remote repository!
